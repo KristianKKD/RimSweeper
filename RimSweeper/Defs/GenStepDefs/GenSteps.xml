@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <GenStepDef>
+    <defName>RS_ScatterInvisibleMines</defName>
+    <order>450</order>
+    <genStep Class="RimSweeper.GenStep_ScatterInvisibleMines">
+      <countPer10kCellsRange>10000~20000</countPer10kCellsRange>
+    </genStep>
+  </GenStepDef>
+</Defs>

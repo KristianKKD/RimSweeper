@@ -1,0 +1,10 @@
+C:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Source\obj\Debug\RimSweeper.csproj.AssemblyReference.cache
+C:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Source\obj\Debug\RimSweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Source\obj\Debug\RimSweeper.AssemblyInfoInputs.cache
+C:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Source\obj\Debug\RimSweeper.AssemblyInfo.cs
+C:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Source\obj\Debug\RimSweeper.csproj.CoreCompileInputs.cache
+C:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Assemblies\RimSweeper.dll
+C:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Assemblies\RimSweeper.pdb
+C:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Source\obj\Debug\RimSweeper.csproj.Up2Date
+C:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Source\obj\Debug\RimSweeper.dll
+C:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Source\obj\Debug\RimSweeper.pdb

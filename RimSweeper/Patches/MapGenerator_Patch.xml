@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <!-- Try to find the map generator by content if name fails, or use the standard name -->
+    <xpath>Defs/MapGeneratorDef[defName="MapGenerator_Standard" or genSteps/li="ScatterRuinsSimple"]/genSteps</xpath>
+    <value>
+      <li>RS_ScatterInvisibleMines</li>
+    </value>
+  </Operation>
+</Patch>

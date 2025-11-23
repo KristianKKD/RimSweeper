@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ThingDef>
+    <defName>RS_AvoidMarker</defName>
+    <label>avoid marker</label>
+    <thingClass>RimSweeper.Building_AvoidMarker</thingClass>
+    <category>Building</category>
+    <tickerType>Never</tickerType>
+    <drawerType>MapMeshOnly</drawerType>
+    <graphicData>
+      <texPath>Things/Mote/Smoke</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>MetaOverlay</shaderType>
+      <color>(255,0,0,200)</color> <!-- More visible red -->
+      <drawSize>1</drawSize>
+    </graphicData>
+    <altitudeLayer>Floor</altitudeLayer>
+    <passability>Standable</passability>
+    <selectable>true</selectable>
+    <useHitPoints>false</useHitPoints>
+    <pathCost>0</pathCost> <!-- We handle cost via Harmony -->
+    <building>
+      <isTrap>false</isTrap>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+    </building>
+  </ThingDef>
+</Defs>

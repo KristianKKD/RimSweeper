@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ThingDef>
+    <defName>RS_InvisibleMine</defName>
+    <label>invisible mine</label>
+    <thingClass>RimSweeper.Building_InvisibleMine</thingClass>
+    <category>Building</category>
+    <tickerType>Normal</tickerType>
+    <drawerType>None</drawerType>
+    <graphicData>
+      <texPath>Things/Mote/Smoke</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>Transparent</shaderType>
+      <color>(0,0,0,0)</color>
+    </graphicData>
+    <altitudeLayer>Floor</altitudeLayer>
+    <passability>Standable</passability>
+    <selectable>false</selectable>
+    <useHitPoints>false</useHitPoints>
+    <building>
+      <isTrap>true</isTrap>
+      <expandHomeArea>false</expandHomeArea>
+      <ai_chillDestination>false</ai_chillDestination>
+    </building>
+  </ThingDef>
+</Defs>

@@ -1,0 +1,9 @@
+<ModMetaData>
+    <name>RimSweeper</name>
+<description>KrabGor is really cool and totally very amazing at making mods that work completely with no flaws.</description>
+    <author>KrabGor</author>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <packageId>krabgor.rimsweeper</packageId>
+</ModMetaData>
