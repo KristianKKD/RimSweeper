@@ -8,18 +8,20 @@
     <tickerType>Never</tickerType>
     <drawerType>MapMeshOnly</drawerType>
     <graphicData>
-      <texPath>Things/Mote/Smoke</texPath>
+      <texPath>rimgor_a</texPath>
       <graphicClass>Graphic_Single</graphicClass>
       <shaderType>MetaOverlay</shaderType>
-      <color>(255,0,0,200)</color> <!-- More visible red -->
+      <color>(255,255,255)</color>
       <drawSize>1</drawSize>
     </graphicData>
-    <altitudeLayer>Floor</altitudeLayer>
+    <altitudeLayer>Building</altitudeLayer>
     <passability>Standable</passability>
     <selectable>true</selectable>
     <useHitPoints>false</useHitPoints>
-    <pathCost>0</pathCost> <!-- We handle cost via Harmony -->
+    <clearBuildingArea>false</clearBuildingArea>
+    <pathCost>2000</pathCost>
     <building>
+      <isEdifice>false</isEdifice>
       <isTrap>false</isTrap>
       <expandHomeArea>false</expandHomeArea>
       <ai_chillDestination>false</ai_chillDestination>

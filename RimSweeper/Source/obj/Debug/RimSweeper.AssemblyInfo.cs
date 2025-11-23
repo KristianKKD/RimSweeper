@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RimSweeper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d345f007476734d68d01789d531de8823a3e59da")]
 [assembly: System.Reflection.AssemblyProductAttribute("RimSweeper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RimSweeper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
