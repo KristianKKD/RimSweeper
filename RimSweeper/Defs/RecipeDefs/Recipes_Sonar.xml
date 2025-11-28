@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <RecipeDef>
+    <defName>Make_RS_Sonar</defName>
+    <label>make corpse sonar</label>
+    <description>Turn a human corpse into a sonar device.</description>
+    <jobString>Making corpse sonar.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>ButcherFlesh</effectWorking>
+    <soundWorking>Recipe_ButcherCorpse</soundWorking>
+    <workAmount>500</workAmount>
+    <recipeUsers>
+        <li>CraftingSpot</li>
+        <li>TableMachining</li>
+    </recipeUsers>
+    <ingredients>
+        <li>
+            <filter>
+                <thingDefs>
+                    <li>Steel</li>
+                </thingDefs>
+            </filter>
+            <count>20</count>
+        </li>
+        <li>
+            <filter>
+                <categories>
+                    <li>CorpsesHumanlike</li>
+                </categories>
+            </filter>
+            <count>1</count>
+        </li>
+    </ingredients>
+    <fixedIngredientFilter>
+        <thingDefs>
+            <li>Steel</li>
+        </thingDefs>
+        <categories>
+            <li>CorpsesHumanlike</li>
+        </categories>
+    </fixedIngredientFilter>
+    <products>
+        <RS_Sonar>1</RS_Sonar>
+    </products>
+  </RecipeDef>
+</Defs>

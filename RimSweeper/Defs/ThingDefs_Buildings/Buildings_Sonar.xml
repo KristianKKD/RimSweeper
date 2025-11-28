@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>RS_Sonar</defName>
+    <label>corpse sonar</label>
+    <description>A crude sonar device built into a human corpse. It detects nearby invisible mines. The number displayed indicates the distance to the nearest mine (1-5). Requires a human corpse to build.</description>
+    <thingClass>RimSweeper.Building_Sonar</thingClass>
+    <graphicData>
+      <texPath>rimgor_9</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <blockWind>false</blockWind>
+    <castEdgeShadows>false</castEdgeShadows>
+    <fillPercent>0.4</fillPercent>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToBuild>500</WorkToBuild>
+      <Flammability>1.0</Flammability>
+      <Mass>10</Mass>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsSecurity</li>
+    </thingCategories>
+    <costList>
+      <Steel>10</Steel>
+    </costList>
+    <building>
+      <ai_chillDestination>false</ai_chillDestination>
+    </building>
+  </ThingDef>
+</Defs>

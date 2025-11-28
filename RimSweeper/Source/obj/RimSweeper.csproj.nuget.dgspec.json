@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KrabGor\\OneDrive\\Programming\\RimSweeper\\RimSweeper\\Source\\RimSweeper.csproj": {}
+    "c:\\Users\\KrabGor\\OneDrive\\Programming\\RimSweeper\\RimSweeper\\Source\\RimSweeper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KrabGor\\OneDrive\\Programming\\RimSweeper\\RimSweeper\\Source\\RimSweeper.csproj": {
+    "c:\\Users\\KrabGor\\OneDrive\\Programming\\RimSweeper\\RimSweeper\\Source\\RimSweeper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KrabGor\\OneDrive\\Programming\\RimSweeper\\RimSweeper\\Source\\RimSweeper.csproj",
+        "projectUniqueName": "c:\\Users\\KrabGor\\OneDrive\\Programming\\RimSweeper\\RimSweeper\\Source\\RimSweeper.csproj",
         "projectName": "RimSweeper",
-        "projectPath": "C:\\Users\\KrabGor\\OneDrive\\Programming\\RimSweeper\\RimSweeper\\Source\\RimSweeper.csproj",
+        "projectPath": "c:\\Users\\KrabGor\\OneDrive\\Programming\\RimSweeper\\RimSweeper\\Source\\RimSweeper.csproj",
         "packagesPath": "C:\\Users\\KrabGor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KrabGor\\OneDrive\\Programming\\RimSweeper\\RimSweeper\\Source\\obj\\",
+        "outputPath": "c:\\Users\\KrabGor\\OneDrive\\Programming\\RimSweeper\\RimSweeper\\Source\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KrabGor\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = RimSweeper
-build_property.ProjectDir = C:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Source\
+build_property.ProjectDir = c:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Source\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

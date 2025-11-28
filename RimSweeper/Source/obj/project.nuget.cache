@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b4Vhdg9oZ00=",
+  "dgSpecHash": "D5cmvKyo+Yk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\KrabGor\\OneDrive\\Programming\\RimSweeper\\RimSweeper\\Source\\RimSweeper.csproj",
+  "projectFilePath": "c:\\Users\\KrabGor\\OneDrive\\Programming\\RimSweeper\\RimSweeper\\Source\\RimSweeper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KrabGor\\.nuget\\packages\\lib.harmony\\2.3.3\\lib.harmony.2.3.3.nupkg.sha512",
     "C:\\Users\\KrabGor\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",

@@ -8,3 +8,4 @@ C:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Assemblies\RimSweepe
 C:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Source\obj\Debug\RimSweeper.csproj.Up2Date
 C:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Source\obj\Debug\RimSweeper.dll
 C:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Source\obj\Debug\RimSweeper.pdb
+c:\Users\KrabGor\OneDrive\Programming\RimSweeper\RimSweeper\Source\obj\Debug\RimSweeper.sourcelink.json
